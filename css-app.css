@@ -20,6 +20,6 @@ iframe {
     border: none;
     width: 100%;
     height: 100%;
-    transform: scale(5); /* Adjust this value if needed */
+    transform: scale(25); /* Adjust this value if needed */
     transform-origin: top left;
 }
